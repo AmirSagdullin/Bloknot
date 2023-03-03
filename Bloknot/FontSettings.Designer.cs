@@ -109,9 +109,9 @@
             this.colorBox.Items.AddRange(new object[] {
             "красный",
             "синий",
-            "зеленый ",
+            "зеленый",
             "желтый",
-            "белый ",
+            "белый",
             "черный"});
             this.colorBox.Location = new System.Drawing.Point(187, 12);
             this.colorBox.Name = "colorBox";

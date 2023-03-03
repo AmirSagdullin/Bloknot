@@ -46,14 +46,8 @@ namespace Bloknot
                 case "курсив":
                     selected_style = FontStyle.Italic;
                     break;
-                case "полужирный":
+                case "жирный":
                     selected_style = FontStyle.Bold;
-                    break;
-                case "вычеркивание":
-                    selected_style = FontStyle.Strikeout;
-                    break;
-                case "подчеркивание":
-                    selected_style = FontStyle.Underline;
                     break;
                 default:
                     break;
